@@ -1,13 +1,12 @@
-[![196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4](https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/assets/156606560/f69f7670-4c18-4caa-8688-b437f501186d)](https://github.com/MohamedAmineAitJaakike)
-
 <div align="center">
-  <h1>Bienvenue sur mon profil GitHub de Mohamed Amine Ait Jaakike</h1>
+  <h1>Bienvenue sur le profil GitHub de Mohamed Amine Ait Jaakike</h1>
   <p>Étudiant en génie informatique passionné par l'innovation et la programmation. Explorateur curieux des dernières technologies et des frameworks modernes.</p>
+  <img src="https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/assets/156606560/f69f7670-4c18-4caa-8688-b437f501186d" alt="Dynamique" width="600">
 </div>
 
 ---
 
-## 🚀 Technologies et Compétences :
+## 🚀 Technologies et Compétences
 
 <div align="center">
   <p>
@@ -34,7 +33,7 @@
 
 ---
 
-## 📊 Statistiques GitHub :
+## 📊 Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=radical" alt="Statistiques GitHub">
@@ -44,23 +43,19 @@
 
 ---
 
-## 📈 Activité Récente :
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MohamedAmineAitJaakike&theme=dracula" alt="Graphique d'activité">
-</div>
-
----
-
-## 📫 Me contacter :
+## 📫 Me Contacter
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    <a href="mailto:aitjaakikemohamedamine@gmail.com">aitjaakikemohamedamine@gmail.com</a>
+    <a href="mailto:aitjaakikemohamedamine@gmail.com">
+      <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      aitjaakikemohamedamine@gmail.com
+    </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <a href="https://shorturl.at/06vLx">Mohamed Amine Ait Jaakike</a>
+    <a href="https://shorturl.at/06vLx">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      Mohamed Amine Ait Jaakike
+    </a>
   </p>
 </div>
