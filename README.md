@@ -48,14 +48,12 @@
 <div align="center">
   <p>
     <a href="mailto:aitjaakikemohamedamine@gmail.com">
-      <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      aitjaakikemohamedamine@gmail.com
+      <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"> aitjaakikemohamedamine@gmail.com
     </a>
   </p>
   <p>
     <a href="https://shorturl.at/06vLx">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style= "width:10px ;">
-      Mohamed Amine Ait Jaakike
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> Mohamed Amine Ait Jaakike
     </a>
   </p>
 </div>
