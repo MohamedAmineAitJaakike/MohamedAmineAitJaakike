@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHCjHrVqwYqElDG/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" width="800"/>
 </div>
 
 <div align="center">
@@ -35,28 +35,18 @@
 ## 📊 Statistiques GitHub :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNom&show_icons=true&theme=radical" alt="Statistiques GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNom&layout=compact&theme=radical" alt="Langages les plus utilisés">
-  <img src="https://github-profile-trophy.vercel.app/?username=VotreNom&theme=dracula" alt="Trophées GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=radical" alt="Statistiques GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&theme=radical" alt="Langages les plus utilisés">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=dracula" alt="Trophées GitHub">
 </div>
 
 ## 📈 Activité Récente :
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=VotreNom&theme=react-dark" alt="Graphique d'Activité">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAmineAitJaakike&theme=radical" alt="Activité Récente">
 </div>
 
 ## 💼 Projets Populaires :
 
 1. [E-LearningPlatform](lien_vers_e-learning_platform) - 📚 Plateforme d'apprentissage en ligne développée en PHP.
-2. [Application-Web-de-Chat](lien_vers_application_web_de_chat) - 💬 Application de chat en ligne réalisée en PHP.
-3. [Dashboard-Produits](lien_vers_dashboard_produits) - 📊 Tableau de bord pour la gestion des produits développé en HTML.
-4. [Manipulateur-d-Automates-en-Langage-C](lien_vers_manipulateur_automates_en_C) - 🤖 Programme en C pour la manipulation des automates.
-5. [Application-Client-Serveur-de-Carnet-de-Contacts](lien_vers_application_client_serveur_contacts) - 📞 Application client-serveur de carnet de contacts avec sockets en C.
-
-## 📫 Me Contacter :
-
-<div align="center">
-  <p>Email : <a href="mailto:aitjaakikemohamedamine@gmail.com">aitjaakikemohamedamine@gmail.com</a></p>
-  <p>LinkedIn : <a href="https://shorturl.at/06vLx">Mohamed Amine Ait Jaakike</a></p>
-</div>
+2. [Application-Web-de-Chat](lien_vers_application_web_de_chat) -
