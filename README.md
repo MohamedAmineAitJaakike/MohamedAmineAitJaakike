@@ -1,7 +1,7 @@
 [![196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4](https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/assets/156606560/f69f7670-4c18-4caa-8688-b437f501186d)](https://github.com/MohamedAmineAitJaakike)
 
 <div align="center">
-  <h1>Bienvenue sur le profil GitHub de Mohamed Amine Ait Jaakike</h1>
+  <h1>Bienvenue sur mon profil GitHub de Mohamed Amine Ait Jaakike</h1>
   <p>Étudiant en génie informatique passionné par l'innovation et la programmation. Explorateur curieux des dernières technologies et des frameworks modernes.</p>
 </div>
 
