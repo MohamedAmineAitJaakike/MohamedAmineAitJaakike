@@ -5,6 +5,8 @@
   <p>Étudiant en génie informatique passionné par l'innovation et la programmation. Explorateur curieux des dernières technologies et des frameworks modernes.</p>
 </div>
 
+---
+
 ## 🚀 Technologies et Compétences :
 
 <div align="center">
@@ -30,6 +32,8 @@
   </p>
 </div>
 
+---
+
 ## 📊 Statistiques GitHub :
 
 <div align="center">
@@ -38,8 +42,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=dracula" alt="Trophées GitHub">
 </div>
 
+---
+
 ## 📈 Activité Récente :
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MohamedAmineAitJaakike&theme=radical" alt="Activité Récente">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MohamedAmineAitJaakike&theme=dracula" alt="Graphique d'activité">
+</div>
+
+---
+
+## 📫 Me contacter :
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="mailto:aitjaakikemohamedamine@gmail.com">aitjaakikemohamedamine@gmail.com</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://shorturl.at/06vLx">Mohamed Amine Ait Jaakike</a>
+  </p>
 </div>
