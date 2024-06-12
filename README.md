@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif](https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/issues/1#issue-2349274709)" width="800"/>
+  <img src="![196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4](https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/assets/156606560/7b597aa3-c642-4b57-97a5-d09449680cf9)" width="800"/>
 </div>
 
 <div align="center">
