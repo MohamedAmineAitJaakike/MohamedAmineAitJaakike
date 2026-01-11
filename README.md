@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike?label=Stars&style=for-the-badge&color=f1c40f" alt="Stars"/>
 
   <br/><br/>
-  <!-- Ton image -->
-  <img src="https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/assets/156606560/f69f7670-4c18-4caa-8688-b437f501186d" width="700" alt="Banner"/>
+  <img src="https://github.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/assets/156606560/f69f7670-4c18-4caa-8688-b437f501186d" width="720" alt="Banner"/>
 
 </div>
 
@@ -85,34 +84,21 @@ Valeurs:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## Statistiques GitHub (github-readme-stats + streak-stats)
+## Statistiques GitHub (Streak uniquement)
 
 <!--
-SI tu vois juste du texte "GitHub Stats / Top Languages / Streak Stats" :
-1) attends 1-2 minutes (rate limit temporaire)
-2) puis recharge la page GitHub
-3) si ton réseau bloque vercel, utilise les liens "MIRROR" (commentés) juste en dessous.
+Si l’image ne s’affiche pas et tu vois juste "Streak Stats" :
+- Recharge la page après 30–60s (rate limit / cache)
+- Ou décommente le lien MIRROR ci-dessous (toujours streak uniquement)
 -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  <img width="85%" src="https://streak-stats.demolab.com?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Streak Stats"/>
 </div>
 
-<br/>
-
+<!-- MIRROR (streak uniquement) : décommente si ton réseau bloque demolab
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Streak Stats"/>
-</div>
-
-<!-- MIRROR (décommente si ton réseau bloque vercel)
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</div>
-<br/>
-<div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true" alt="Streak Stats Mirror"/>
 </div>
 -->
 
@@ -146,7 +132,7 @@ SI tu vois juste du texte "GitHub Stats / Top Languages / Streak Stats" :
   <a href="mailto:aitjaakikemohamedamine@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamedamineaitjaakike/">
+  <a href="https://shorturl.at/06vLx">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MohamedAmineAitJaakike">
