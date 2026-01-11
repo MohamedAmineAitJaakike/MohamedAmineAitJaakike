@@ -7,7 +7,7 @@
      ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
      
      README.md — Mohamed Amine Ait Jaakike
-     Design: Premium • Professionnel • Unique • Fiable
+     Design: World-Class • Premium • Unique • Professional
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -15,7 +15,7 @@
   <!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Mohamed%20Amine%20Ait%20Jaakike&fontSize=48&fontColor=6AD3F7&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descColor=ffffff&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Mohamed%20Amine%20Ait%20Jaakike&fontSize=48&fontColor=6AD3F7&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descColor=ffffff&descAlignY=55"
     alt="Header"
   />
 
@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/github/followers/MohamedAmineAitJaakike?label=Followers&style=for-the-badge&color=6AD3F7&labelColor=0D1117" alt="Followers"/>
     </a>
     <a href="https://github.com/MohamedAmineAitJaakike?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Explorer-6AD3F7?style=for-the-badge&labelColor=0D1117" alt="Repositories"/>
+      <img src="https://img.shields.io/badge/Repositories-15+-6AD3F7?style=for-the-badge&labelColor=0D1117" alt="Repositories"/>
     </a>
     <a href="https://github.com/MohamedAmineAitJaakike">
       <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D26A?style=for-the-badge&labelColor=0D1117" alt="Status"/>
@@ -74,14 +74,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
 <!-- ══════════════════════════════ SOMMAIRE ══════════════════════════════ -->
-## 📑 Sommaire
+## 📑 Navigation Rapide
 
 <div align="center">
 
 |     |     |     |     |
 |:---:|:---:|:---:|:---:|
-| [🧑‍💻 À propos](#-à-propos) | [🛠️ Tech Stack](#️-tech-stack) | [📊 Statistiques](#-statistiques) | [🚀 Projets](#-projets) |
-| [💼 Services](#-services) | [🎯 Objectifs 2024](#-objectifs-2024) | [📬 Contact](#-contact) | [☕ Support](#-support) |
+| [🧑‍💻 À propos](#-à-propos) | [🛠️ Tech Stack](#️-tech-stack) | [📊 Statistiques](#-statistiques) | [🚀 Projets](#-projets-phares) |
+| [💼 Services](#-services) | [🎯 Objectifs 2025](#-objectifs-2025) | [📬 Contact](#-contact) | [☕ Support](#-support) |
 
 </div>
 
@@ -139,6 +139,7 @@ Valeurs:
 | 💼 | Open to Work |
 | 🌐 | Full-Stack Developer |
 | 🧠 | Apprenant perpétuel |
+| 📁 | 15+ Projets réalisés |
 
 <br/>
 
@@ -166,8 +167,9 @@ Valeurs:
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
-<td align="center"><img src="https://img.shields.io/badge/PHP-Avancé-777BB4?style=flat-square&logo=php&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/C/C++-Intermédiaire-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=flat-square&logo=php&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/C-Avancé-00599C?style=flat-square&logo=c&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Java-Avancé-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></td>
 </tr>
 </table>
 </details>
@@ -182,10 +184,10 @@ Valeurs:
 <br/><br/>
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/React-Avancé-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Vue.js-Avancé-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/TailwindCSS-Expert-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Next.js-Avancé-000000?style=flat-square&logo=next.js&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Bootstrap-Expert-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></td>
 </tr>
 </table>
 </details>
@@ -201,9 +203,9 @@ Valeurs:
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Django-Expert-092E20?style=flat-square&logo=django&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/FastAPI-Avancé-009688?style=flat-square&logo=fastapi&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Flask-Avancé-000000?style=flat-square&logo=flask&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Laravel-Avancé-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Node.js-Avancé-339933?style=flat-square&logo=node.js&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Laravel-Intermédiaire-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></td>
 </tr>
 </table>
 </details>
@@ -218,9 +220,9 @@ Valeurs:
 <br/><br/>
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-Avancé-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/MongoDB-Avancé-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Redis-Avancé-DC382D?style=flat-square&logo=redis&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Firebase-Intermédiaire-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></td>
 </tr>
 </table>
@@ -265,7 +267,7 @@ Valeurs:
 
 <br/><br/>
 
-### 🏆 Trophées
+### 🏆 Trophées GitHub
 <img
   width="100%"
   src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"
@@ -278,85 +280,322 @@ Valeurs:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
 <!-- ══════════════════════════════ PROJETS ══════════════════════════════ -->
-## 🚀 Projets
+## 🚀 Projets Phares
 
 <div align="center">
 
-> 💡 **Astuce:** Épingle tes meilleurs repositories sur ton profil GitHub pour les mettre en avant!
+> 💡 **15+ projets** couvrant le développement web, les systèmes distribués, l'automatisation et plus encore!
 
 </div>
 
+<!-- ══════════════════════════════ PROJET 1 ══════════════════════════════ -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 Projet Vedette 1
-**[Nom du Projet](https://github.com/MohamedAmineAitJaakike)**
+### 🎓 E-Learning Platform
+<a href="https://github.com/MohamedAmineAitJaakike/E-LearningPlatform">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
 
-Description courte du projet et de son impact.
+**Plateforme complète d'apprentissage en ligne**
 
-**Stack:** `React` `Node.js` `MongoDB` `Docker`
+Une application web permettant aux utilisateurs de suivre des cours, gérer leur progression et interagir avec le contenu éducatif.
 
-**Features:**
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+**Stack:** `PHP` `MySQL` `HTML/CSS` `JavaScript` `Bootstrap`
 
-<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌟 Projet Vedette 2
-**[Nom du Projet](https://github.com/MohamedAmineAitJaakike)**
-
-Description courte du projet et de son impact.
-
-**Stack:** `Django` `PostgreSQL` `Redis` `AWS`
-
-**Features:**
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+**Fonctionnalités clés:**
+- ✅ Gestion des cours et modules
+- ✅ Système d'authentification sécurisé
+- ✅ Suivi de progression des étudiants
+- ✅ Interface responsive et intuitive
+- ✅ Panel administrateur complet
 
 <img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Projet 3
-**[Nom du Projet](https://github.com/MohamedAmineAitJaakike)**
-
-Description courte du projet.
-
-**Stack:** `Vue.js` `FastAPI` `PostgreSQL`
-
-<img src="https://img.shields.io/badge/Status-Development-FFA500?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/E-LearningPlatform?style=flat-square&color=FFD700"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Projet 4
-**[Nom du Projet](https://github.com/MohamedAmineAitJaakike)**
+### 🎉 Eventura Team
+<a href="https://github.com/MohamedAmineAitJaakike/Eventura_Team">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
 
-Description courte du projet.
+**Système de gestion d'événements collaboratif**
 
-**Stack:** `Python` `TensorFlow` `Flask`
+Application web pour organiser, planifier et gérer des événements en équipe avec des fonctionnalités avancées de collaboration.
 
-<img src="https://img.shields.io/badge/Status-Development-FFA500?style=flat-square"/>
+**Stack:** `PHP` `MySQL` `JavaScript` `CSS` `Bootstrap`
+
+**Fonctionnalités clés:**
+- ✅ Création et gestion d'événements
+- ✅ Système de réservation
+- ✅ Gestion des participants
+- ✅ Calendrier interactif
+- ✅ Notifications en temps réel
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/Eventura_Team?style=flat-square&color=FFD700"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<!-- ══════════════════════════════ PROJET 3 & 4 ══════════════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 CV Pro App
+<a href="https://github.com/MohamedAmineAitJaakike/Cv-Pro-App">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
+
+**Générateur professionnel de CV**
+
+Application web permettant de créer, personnaliser et exporter des CV professionnels en plusieurs formats.
+
+**Stack:** `PHP` `MySQL` `HTML/CSS` `JavaScript`
+
+**Fonctionnalités clés:**
+- ✅ Templates multiples et personnalisables
+- ✅ Export PDF haute qualité
+- ✅ Sauvegarde des profils utilisateurs
+- ✅ Interface drag & drop
+- ✅ Prévisualisation en temps réel
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/Cv-Pro-App?style=flat-square&color=FFD700"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Manipulateur d'Automates
+<a href="https://github.com/MohamedAmineAitJaakike/-Manipulateur-d-Automates-en-Langage-C">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
+
+**Outil de manipulation d'automates finis**
+
+Programme en C pour créer, manipuler et analyser des automates finis déterministes et non-déterministes.
+
+**Stack:** `C` `Algorithms` `Data Structures`
+
+**Fonctionnalités clés:**
+- ✅ Création d'automates (AFD/AFN)
+- ✅ Déterminisation d'automates
+- ✅ Minimisation d'automates
+- ✅ Opérations (union, intersection, complémentation)
+- ✅ Visualisation graphique
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/-Manipulateur-d-Automates-en-Langage-C?style=flat-square&color=FFD700"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════════ PROJET 5 & 6 ══════════════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Application Client-Serveur Sockets
+<a href="https://github.com/MohamedAmineAitJaakike/Application-Client-Serveur-de-Carnet-de-Contacts-avec-Sockets-en-C">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
+
+**Carnet de contacts distribué via Sockets**
+
+Application client-serveur en C utilisant les sockets pour gérer un carnet de contacts partagé sur le réseau.
+
+**Stack:** `C` `Sockets` `TCP/IP` `Networking`
+
+**Fonctionnalités clés:**
+- ✅ Communication TCP/IP
+- ✅ Gestion multi-clients
+- ✅ Synchronisation des données
+- ✅ Protocole de communication personnalisé
+- ✅ Gestion des erreurs réseau
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/Application-Client-Serveur-de-Carnet-de-Contacts-avec-Sockets-en-C?style=flat-square&color=FFD700"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Gestion de Laboratoires (Threads)
+<a href="https://github.com/MohamedAmineAitJaakike/Gestion-de-Laboratoires-avec-S-maphores-et-Threads-en-C">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
+
+**Simulation de gestion de laboratoires avec concurrence**
+
+Programme utilisant les sémaphores et threads pour simuler la gestion concurrente de ressources de laboratoire.
+
+**Stack:** `C` `POSIX Threads` `Semaphores` `Concurrency`
+
+**Fonctionnalités clés:**
+- ✅ Gestion multi-threads
+- ✅ Synchronisation par sémaphores
+- ✅ Prévention des deadlocks
+- ✅ Allocation de ressources partagées
+- ✅ Simulation réaliste
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/Gestion-de-Laboratoires-avec-S-maphores-et-Threads-en-C?style=flat-square&color=FFD700"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════════ PROJET 7 & 8 ══════════════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ Traitement d'Images Python
+<a href="https://github.com/MohamedAmineAitJaakike/Traitement-Images-Python">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
+
+**Bibliothèque de traitement d'images**
+
+Ensemble d'outils Python pour le traitement, l'analyse et la manipulation d'images numériques.
+
+**Stack:** `Python` `OpenCV` `NumPy` `Pillow` `Matplotlib`
+
+**Fonctionnalités clés:**
+- ✅ Filtres et transformations
+- ✅ Détection de contours
+- ✅ Segmentation d'images
+- ✅ Analyse histogramme
+- ✅ Compression et optimisation
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/Traitement-Images-Python?style=flat-square&color=FFD700"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Web Scraping Appels d'Offres
+<a href="https://github.com/MohamedAmineAitJaakike/Web-Scraping-Appels-Offres-Maroc">
+  <img src="https://img.shields.io/badge/Voir_le_projet-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View"/>
+</a>
+
+**Automatisation de veille des marchés publics**
+
+Bot de scraping pour collecter et analyser les appels d'offres publics au Maroc.
+
+**Stack:** `Python` `BeautifulSoup` `Selenium` `Pandas` `SQLite`
+
+**Fonctionnalités clés:**
+- ✅ Scraping automatisé multi-sources
+- ✅ Extraction de données structurées
+- ✅ Filtrage par catégorie/région
+- ✅ Alertes email personnalisées
+- ✅ Export CSV/Excel
+
+<img src="https://img.shields.io/badge/Status-Production-00D26A?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MohamedAmineAitJaakike/Web-Scraping-Appels-Offres-Maroc?style=flat-square&color=FFD700"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════════ AUTRES PROJETS ══════════════════════════════ -->
+<details>
+<summary><b>📁 Voir tous les autres projets (7+)</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📧 Email Manager
+<a href="https://github.com/MohamedAmineAitJaakike/Email-Manager-">
+  <img src="https://img.shields.io/badge/Voir-6AD3F7?style=flat-square&logo=github" alt="View"/>
+</a>
+<br/>
+Gestionnaire d'emails avec interface web
+<br/>
+`PHP` `MySQL` `SMTP`
+
+</td>
+<td width="33%" align="center">
+
+### 🏫 School Management System
+<a href="https://github.com/MohamedAmineAitJaakike/-School-Management-System-JAVA-">
+  <img src="https://img.shields.io/badge/Voir-6AD3F7?style=flat-square&logo=github" alt="View"/>
+</a>
+<br/>
+Système de gestion scolaire complet
+<br/>
+`Java` `JavaFX` `MySQL`
+
+</td>
+<td width="33%" align="center">
+
+### 💬 Application Web de Chat
+<a href="https://github.com/MohamedAmineAitJaakike/Application-Web-de-Chat">
+  <img src="https://img.shields.io/badge/Voir-6AD3F7?style=flat-square&logo=github" alt="View"/>
+</a>
+<br/>
+Chat en temps réel
+<br/>
+`PHP` `WebSockets` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Dashboard Produits
+<a href="https://github.com/MohamedAmineAitJaakike/Dashboard-Produits-">
+  <img src="https://img.shields.io/badge/Voir-6AD3F7?style=flat-square&logo=github" alt="View"/>
+</a>
+<br/>
+Tableau de bord analytique
+<br/>
+`PHP` `Chart.js` `MySQL`
+
+</td>
+<td width="33%" align="center">
+
+### 💄 ZEN BEAUTY
+<a href="https://github.com/MohamedAmineAitJaakike/ZEN-BEAUTY">
+  <img src="https://img.shields.io/badge/Voir-6AD3F7?style=flat-square&logo=github" alt="View"/>
+</a>
+<br/>
+E-commerce beauté & cosmétiques
+<br/>
+`PHP` `MySQL` `Bootstrap`
+
+</td>
+<td width="33%" align="center">
+
+### 🐳 Mini-Projet DevOps
+<a href="https://github.com/SaadBarhrouj/Mini-Projet-Dev-With-docker-Git-jira">
+  <img src="https://img.shields.io/badge/Voir-6AD3F7?style=flat-square&logo=github" alt="View"/>
+</a>
+<br/>
+Projet collaboratif DevOps
+<br/>
+`Docker` `Git` `Jira`
+
+</td>
+</tr>
+</table>
+
+</details>
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/MohamedAmineAitJaakike?tab=repositories">
-  <img src="https://img.shields.io/badge/Voir%20tous%20les%20projets-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  <img src="https://img.shields.io/badge/🔗_Explorer_tous_mes_repositories-6AD3F7?style=for-the-badge&labelColor=0D1117" alt="All Projects"/>
 </a>
 
 </div>
@@ -374,30 +613,30 @@ Description courte du projet.
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
 <br/>
-<b>Développement Web</b>
+<b>Développement Web Full-Stack</b>
 <br/>
-<sub>Sites & Applications web sur mesure</sub>
+<sub>Applications web complètes, du frontend au backend, avec des architectures modernes et scalables</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
 <br/>
 <b>API Development</b>
 <br/>
-<sub>APIs REST & GraphQL robustes</sub>
+<sub>APIs REST robustes, documentées et sécurisées avec authentification et gestion des erreurs</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
 <br/>
-<b>Consultation</b>
+<b>Consultation Technique</b>
 <br/>
-<sub>Architecture & Code Review</sub>
+<sub>Code review, architecture de projets, optimisation de performance et bonnes pratiques</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80"/>
 <br/>
-<b>Automatisation</b>
+<b>Automatisation & Scripts</b>
 <br/>
-<sub>Scripts & CI/CD Pipelines</sub>
+<sub>Bots, scrapers, automatisation de tâches, pipelines CI/CD et intégration continue</sub>
 </td>
 </tr>
 </table>
@@ -408,17 +647,18 @@ Description courte du projet.
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
 <!-- ══════════════════════════════ OBJECTIFS ══════════════════════════════ -->
-## 🎯 Objectifs 2024
+## 🎯 Objectifs 2025
 
 <div align="center">
 
 | Objectif | Progrès | Status |
 |:---------|:-------:|:------:|
-| 🎓 Terminer mes études en Génie Informatique | ![90%](https://progress-bar.dev/90/?width=150&color=6AD3F7) | 🔄 En cours |
-| 🚀 Lancer 3 projets open-source majeurs | ![60%](https://progress-bar.dev/60/?width=150&color=6AD3F7) | 🔄 En cours |
-| 📚 Maîtriser Kubernetes & AWS | ![40%](https://progress-bar.dev/40/?width=150&color=6AD3F7) | 🔄 En cours |
-| 🤖 Bases solides en Machine Learning | ![30%](https://progress-bar.dev/30/?width=150&color=6AD3F7) | 🔄 En cours |
-| 💼 Décrocher un stage/emploi tech | ![0%](https://progress-bar.dev/0/?width=150&color=6AD3F7) | ⏳ À venir |
+| 🎓 Terminer mes études en Génie Informatique avec excellence | ![90%](https://progress-bar.dev/90/?width=200&color=6AD3F7) | 🔄 En cours |
+| 🚀 Contribuer à 5+ projets open-source majeurs | ![40%](https://progress-bar.dev/40/?width=200&color=6AD3F7) | 🔄 En cours |
+| 📚 Obtenir une certification AWS/Cloud | ![30%](https://progress-bar.dev/30/?width=200&color=6AD3F7) | 🔄 En cours |
+| 🤖 Maîtriser les fondamentaux du Machine Learning | ![35%](https://progress-bar.dev/35/?width=200&color=6AD3F7) | 🔄 En cours |
+| 💼 Décrocher un stage/emploi dans une entreprise tech | ![20%](https://progress-bar.dev/20/?width=200&color=6AD3F7) | 🔄 Recherche active |
+| 📝 Lancer un blog technique personnel | ![10%](https://progress-bar.dev/10/?width=200&color=6AD3F7) | ⏳ Planifié |
 
 </div>
 
@@ -444,21 +684,21 @@ Description courte du projet.
 <tr>
 <td align="center">
 <a href="mailto:aitjaakikemohamedamine@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-aitjaakikemohamedamine%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+<img src="https://img.shields.io/badge/📧_Email-aitjaakikemohamedamine%40gmail.com-EA4335?style=for-the-badge&labelColor=0D1117" alt="Gmail"/>
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://shorturl.at/06vLx">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Amine%20Ait%20Jaakike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/💼_LinkedIn-Mohamed%20Amine%20Ait%20Jaakike-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://github.com/MohamedAmineAitJaakike">
-<img src="https://img.shields.io/badge/GitHub-MohamedAmineAitJaakike-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+<img src="https://img.shields.io/badge/🐙_GitHub-MohamedAmineAitJaakike-6e5494?style=for-the-badge&labelColor=0D1117" alt="GitHub"/>
 </a>
 </td>
 </tr>
@@ -468,10 +708,20 @@ Description courte du projet.
 
 ### 🤝 Je suis ouvert à:
 
-<img src="https://img.shields.io/badge/✅-Collaboration%20sur%20projets%20innovants-6AD3F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/✅-Stages%20%26%20Opportunités%20professionnelles-6AD3F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/✅-Contributions%20Open--Source-6AD3F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/✅-Mentorat%20%26%20Échange%20de%20connaissances-6AD3F7?style=flat-square"/>
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/✅-Collaboration%20sur%20projets%20innovants-6AD3F7?style=for-the-badge&labelColor=0D1117"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/✅-Stages%20%26%20Opportunités%20professionnelles-6AD3F7?style=for-the-badge&labelColor=0D1117"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/✅-Contributions%20Open--Source-6AD3F7?style=for-the-badge&labelColor=0D1117"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/✅-Mentorat%20%26%20Échange%20de%20connaissances-6AD3F7?style=for-the-badge&labelColor=0D1117"/></td>
+</tr>
+</table>
 
 </div>
 
@@ -483,17 +733,23 @@ Description courte du projet.
 
 <div align="center">
 
-Si mon travail vous aide ou vous inspire, vous pouvez me soutenir:
+Si mon travail vous aide ou vous inspire, vous pouvez me soutenir de plusieurs façons:
+
+<br/>
 
 <a href="https://github.com/MohamedAmineAitJaakike">
-  <img src="https://img.shields.io/badge/⭐-Star%20mes%20repos-FFD700?style=for-the-badge&labelColor=0D1117" alt="Star"/>
+  <img src="https://img.shields.io/badge/⭐_Star-Mes%20repositories-FFD700?style=for-the-badge&labelColor=0D1117" alt="Star"/>
 </a>
 <a href="https://github.com/MohamedAmineAitJaakike?tab=followers">
-  <img src="https://img.shields.io/badge/👥-Follow%20mon%20profil-6AD3F7?style=for-the-badge&labelColor=0D1117" alt="Follow"/>
+  <img src="https://img.shields.io/badge/👥_Follow-Mon%20profil%20GitHub-6AD3F7?style=for-the-badge&labelColor=0D1117" alt="Follow"/>
 </a>
 <a href="https://shorturl.at/06vLx">
-  <img src="https://img.shields.io/badge/🔗-Connecter%20sur%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" alt="Connect"/>
+  <img src="https://img.shields.io/badge/🔗_Connect-Sur%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" alt="Connect"/>
 </a>
+
+<br/><br/>
+
+> *"La meilleure façon de prédire l'avenir est de le créer."* — Peter Drucker
 
 </div>
 
@@ -515,20 +771,24 @@ Si mon travail vous aide ou vous inspire, vous pouvez me soutenir:
   
   <br/>
 
-  <sub>Fait avec ❤️ et beaucoup de ☕ par Mohamed Amine Ait Jaakike</sub>
+  <sub>Fait avec ❤️ et beaucoup de ☕ par <b>Mohamed Amine Ait Jaakike</b></sub>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20Love-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee-6F4E37?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Built%20with-🔥%20Passion-FF4500?style=for-the-badge&labelColor=0D1117"/>
 
   <br/><br/>
 
-  <sub>© 2024 Mohamed Amine Ait Jaakike — Tous droits réservés</sub>
+  <sub>© 2024-2025 Mohamed Amine Ait Jaakike — Tous droits réservés</sub>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=15&fontColor=6AD3F7" alt="Keep Coding"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     FIN DU README
+     FIN DU README PROFESSIONNEL
      ═══════════════════════════════════════════════════════════════════════════ -->
