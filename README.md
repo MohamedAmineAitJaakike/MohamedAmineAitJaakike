@@ -89,26 +89,20 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Statistiques GitHub
 
 <div align="center">
-  <a href="https://github.com/MohamedAmineAitJaakike">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D9F7&icon_color=02D9F7&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D9F7&text_color=FFFFFF" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/MohamedAmineAitJaakike">
-    <img src="https://streak-stats.demolab.com?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&background=0D1117&ring=02D9F7&fire=FF6B6B&currStreakLabel=02D9F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/MohamedAmineAitJaakike">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -116,9 +110,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Graphique de Contribution
 
 <div align="center">
-  <a href="https://github.com/MohamedAmineAitJaakike">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area_color=02D9F7&title_color=FFFFFF&area=true&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area=true"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
