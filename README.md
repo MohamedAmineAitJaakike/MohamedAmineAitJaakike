@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Amine%20Ait%20Jaakike&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Mohamed%20Amine%20Ait%20Jaakike&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=900&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%F0%9F%91%8B+Bienvenue+sur+mon+profil+GitHub+!;%F0%9F%9A%80+%C3%89tudiant+en+G%C3%A9nie+Informatique+%7C+Full-Stack+%7C+Innovation;%F0%9F%94%A5+J%E2%80%99aime+construire+des+projets+utiles%2C+propres+et+scalables" alt="Typing SVG" />
+  <a href="https://github.com/MohamedAmineAitJaakike">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=900&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%F0%9F%91%8B+Bienvenue+sur+mon+profil+GitHub+!;%F0%9F%9A%80+%C3%89tudiant+en+G%C3%A9nie+Informatique+%7C+Full-Stack+%7C+Innovation;%F0%9F%94%A5+Je+cr%C3%A9e+des+projets+propres%2C+utiles+et+scalables" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -20,19 +20,21 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28" alt="About"/> À propos
+## À propos
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Dev"/>
 
+- 🎓 Étudiant en **Génie Informatique**
+- 🧠 Passionné par **l’innovation**, le **web full-stack** et les **technologies modernes**
+- ⚙️ J’aime construire des projets **robustes**, **clairs**, et **bien structurés**
+- 📍 Maroc 🇲🇦
+
 ```yaml
-name: Mohamed Amine Ait Jaakike
-location: Maroc 🇲🇦
-role: Étudiant en Génie Informatique
-focus:
+Focus:
   - Web Full-Stack
-  - IA & Data
-  - Cloud / DevOps
-values:
+  - IA / Data
+  - Cloud & DevOps
+Valeurs:
   - Clean Code
   - Performance
   - UI/UX
@@ -44,7 +46,7 @@ values:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" alt="Skills"/> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -82,78 +84,76 @@ values:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" alt="Stats"/> Statistiques GitHub (liens stables)
+## Statistiques GitHub (100% stables)
 
 <!--
-Astuce fiabilité :
-- cache_seconds réduit les requêtes (moins de rate-limit)
-- URLs “officielles” les plus utilisées et les plus stables
+IMPORTANT :
+Beaucoup de “stats cards” (vercel/heroku) peuvent tomber à cause du rate limit GitHub API.
+Ces cartes-ci sont les PLUS fiables en pratique car elles viennent du projet "github-profile-summary-cards"
+et retournent des PNG. (Très compatibles avec GitHub README)
 -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAmineAitJaakike&theme=tokyonight&cache_seconds=86400" alt="Profile Details"/>
+</div>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800" alt="Streak Stats"/>
-</p>
+<br/>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
-</p>
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedAmineAitJaakike&theme=tokyonight&cache_seconds=86400" alt="Stats"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAmineAitJaakike&theme=tokyonight&cache_seconds=86400" alt="Repos per language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedAmineAitJaakike&theme=tokyonight&cache_seconds=86400" alt="Most commit language"/>
+</div>
 
----
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="Graph"/> Graphique de contribution
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedAmineAitJaakike&theme=tokyonight&utcOffset=1&cache_seconds=86400" alt="Productive time"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Streak stats"/>
+</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652f85-9f6d-4e49-b94a-c94e8dc02e6d.png" width="28" alt="Snake"/> Snake (optionnel)
+## Contribution (calendrier)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MohamedAmineAitJaakike/MohamedAmineAitJaakike/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<!--
+Alternative ultra-stable au “Activity Graph” :
+ghchart génère une image simple et fiable du calendrier de contributions.
+-->
+
+<div align="center">
+  <img width="100%" src="https://ghchart.rshah.org/02D9F7/MohamedAmineAitJaakike" alt="Contribution Chart"/>
+</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28" alt="Quote"/> Citation du jour
+## Citation du jour
 
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</p>
+</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="28" alt="Contact"/> Me contacter
+## Me contacter
 
-<p align="center">
+<div align="center">
   <a href="mailto:aitjaakikemohamedamine@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamedamineaitjaakike/">
+  <a href="https://shorturl.at/06vLx">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MohamedAmineAitJaakike">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+</div>
 
 ---
 
