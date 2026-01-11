@@ -88,53 +88,48 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D9F7&icon_color=02D9F7&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D9F7&text_color=FFFFFF" height="180"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&theme=radical" />
+</p>
 
-<br/>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=MohamedAmineAitJaakike&theme=radical" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&background=0D1117&ring=02D9F7&fire=FF6B6B&currStreakLabel=02D9F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Graphique de Contribution
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area=true"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&theme=radical&hide_border=true&area=true" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652f85-9f6d-4e49-b94a-c94e8dc02e6d.png" width="30"/> Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> Citation du Jour
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="30"/> Connectons-nous !
 
-<div align="center">
-  
+<p align="center">
   <a href="mailto:aitjaakikemohamedamine@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -153,28 +148,29 @@
   <a href="https://discord.com/users/yourid">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-  
-  ### 💬 N'hésitez pas à me contacter pour collaborer sur des projets innovants !
-  
+<p align="center">
+  <b>💬 N'hésitez pas à me contacter pour collaborer sur des projets innovants !</b>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-  
-</div>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 
-<div align="center">
-  
-  ### ⭐ Merci de votre visite ! N'oubliez pas de star mes repos si vous les trouvez utiles !
-  
+<p align="center">
+  <b>⭐ Merci de votre visite ! N'oubliez pas de star mes repos si vous les trouvez utiles !</b>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-  
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
-  
-</div>
+</p>
