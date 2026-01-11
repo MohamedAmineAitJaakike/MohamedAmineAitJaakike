@@ -89,29 +89,34 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Statistiques GitHub
 
 <div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Mohamed Amine github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-  
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmineAitJaakike&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=02D9F7FF&fire=02D9F7FF&currStreakLabel=02D9F7FF" alt="Streak Stats"/>
-
+  <a href="https://github.com/MohamedAmineAitJaakike">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAmineAitJaakike&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamedAmineAitJaakike&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&custom_title=Graphique%20de%20Contribution&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area_color=02D9F7&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/MohamedAmineAitJaakike">
+    <img src="https://streak-stats.demolab.com?user=MohamedAmineAitJaakike&theme=tokyonight&hide_border=true&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophées"/>
+  <a href="https://github.com/MohamedAmineAitJaakike">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&custom_title=Graphique%20de%20Contribution&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area_color=02D9F7&title_color=FFFFFF&area=true&hide_border=true"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MohamedAmineAitJaakike">
+    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -119,7 +124,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652f85-9f6d-4e49-b94a-c94e8dc02e6d.png" width="30"/> Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -127,7 +132,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> Citation du Jour
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -137,22 +142,22 @@
 <div align="center">
   
   <a href="mailto:aitjaakikemohamedamine@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/mohamedamineaitjaakike">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://instagram.com/yourhandle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/yourid">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
 </div>
