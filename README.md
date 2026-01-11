@@ -107,15 +107,17 @@
 
 <div align="center">
   <a href="https://github.com/MohamedAmineAitJaakike">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&custom_title=Graphique%20de%20Contribution&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area_color=02D9F7&title_color=FFFFFF&area=true&hide_border=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
   </a>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Graphique de Contribution
 
 <div align="center">
   <a href="https://github.com/MohamedAmineAitJaakike">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmineAitJaakike&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmineAitJaakike&bg_color=0D1117&color=02D9F7&line=02D9F7&point=FFFFFF&area_color=02D9F7&title_color=FFFFFF&area=true&hide_border=true"/>
   </a>
 </div>
 
