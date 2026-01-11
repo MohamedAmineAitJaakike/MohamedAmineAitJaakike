@@ -781,7 +781,7 @@ Si mon travail vous aide ou vous inspire, vous pouvez me soutenir de plusieurs f
 
   <br/><br/>
 
-  <sub>© 2024-2025 Mohamed Amine Ait Jaakike — Tous droits réservés</sub>
+  <sub>© 2025-2026 Mohamed Amine Ait Jaakike — Tous droits réservés</sub>
 
   <br/>
 
